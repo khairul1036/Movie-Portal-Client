@@ -44,4 +44,4 @@ A user-friendly platform to explore movies, view detailed information, and manag
 ## 📋 Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/programming-hero-web-course2/b10-a10-client-side-khairul1036.git
+   git clone https://github.com/khairul1036/Movie-Portal-Client.git
